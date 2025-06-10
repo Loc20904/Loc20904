@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm @Loc20904</h1>
 
 <div align="center" >
-  <img src="https://i.pinimg.com/originals/7c/6b/c9/7c6bc96a2d0e234efb20246ae33c03cf.gif" alt="Natural" height="300"/>
+  <img src="https://i.pinimg.com/originals/80/93/eb/8093eb596b38846d47cf30feb907d68f.gif" alt="Natural" height="300"/>
 </div>
 
 ---
