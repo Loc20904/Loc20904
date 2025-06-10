@@ -4,4 +4,7 @@
 - 😄 Pronouns: Persist
 
 nguyenthanhloc20092004@gmail.com
-![Natural](https://i.pinimg.com/originals/7c/6b/c9/7c6bc96a2d0e234efb20246ae33c03cf.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/7c/6b/c9/7c6bc96a2d0e234efb20246ae33c03cf.gif" alt="Natural" width="300"/>
+</div>
+
