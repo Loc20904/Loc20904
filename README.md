@@ -7,7 +7,7 @@
 ---
 
 - 🎮 I’m passionate about **Game Development**
-- 📚 Currently learning **.NET**
+- 📚 Currently learning **Android**
 - ✨ Pronouns: `Persist`
 - 💻 Technical: **.NET**, **Java**, **C**, **Android**, **Unity**
 - 📧 Reach me at: **nguyenthanhloc20092004@gmail.com**
